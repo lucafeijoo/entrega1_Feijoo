@@ -1,4 +1,4 @@
-# Entrega1_Gonzalez
+# Entrega1_Feijoo
 
 Consigna: Desarrollar una WEB Django con patron MVT subida a Github
 1- Herencia HTML
